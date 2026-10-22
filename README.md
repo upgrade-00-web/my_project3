@@ -15,4 +15,5 @@
 2. Откройте терминал в папке проекта.
 3. Выполните команду: `python finance_gui.py`
 
-Tkinter обычно входит в стандартную поставку Python. Дополнительные библиотеки не требуются.
+<img width="1072" height="797" alt="image" src="https://github.com/user-attachments/assets/d0df5ed9-4d1b-4f9f-9539-834573a81cdb" />
+
